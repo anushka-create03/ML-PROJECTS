@@ -37,4 +37,4 @@ The dataset has signs of being synthetic or randomly generated. The future-price
 Install the packages listed in `requirements.txt`, then run:
 
     python -m streamlit run app.py
-    https://ml-projects-n6axtzbbjd3ktenhwqeywe.streamlit.app/
+    https://ml-projects-ktxbkzwtj6trbp5pyyhmzf.streamlit.app/
